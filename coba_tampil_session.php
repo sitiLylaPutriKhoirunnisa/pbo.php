@@ -1,5 +1,6 @@
 <?php
 
+include "coba_session.php";
 
 echo "Username = ".$_SESSION['username'];
 echo "<br/>";
