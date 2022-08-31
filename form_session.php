@@ -7,10 +7,16 @@
     <title>Document</title>
 </head>
 <body>
-    <form method="get"action="coba_tampil_session.php">
-       <p>Username <input name="username" type="text"></p>
-       <p>Password <input name="pasword" type="number"></p>
-      
-       <button type="submit">Proses</button>
+    <form action="coba_tampil_session.php">
+        Username
+        <br>
+        <input type="text">
+        <br>
+       Id
+        <br>
+        <input type="number">
+        <br>
+        <button type="submit">Proses</button>
+    </form>
 </body>
 </html>
